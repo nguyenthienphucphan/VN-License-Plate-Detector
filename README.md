@@ -3,7 +3,6 @@
 Một hệ thống AI nhận diện và trích xuất ký tự trên biển số xe đường phố Việt Nam, hoạt động hiệu quả với cả Biển Số Dài (BSD) và Biển Số Vuông (BSV).
 
 ## 📸 Demo Giao Diện
-*(Mẹo: Kéo thả một tấm ảnh chụp màn hình Streamlit cực ngầu của bạn vào đây trên GitHub để người xem hình dung được sản phẩm nhé!)*
 
 ## 🌟 Tính năng nổi bật
 * **Phát hiện biển số cực nhạy:** Sử dụng mạng nơ-ron YOLOv8 được Transfer Learning trực tiếp trên bộ dữ liệu đường phố thực tế tại Việt Nam, bắt tốt các góc nghiêng và khoảng cách xa.
